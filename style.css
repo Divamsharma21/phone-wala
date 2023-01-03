@@ -13,9 +13,8 @@
     display:flex ;
     list-style: none;
     align-content: center;
-
-
 } 
+
 .footer-bar ul li{
-    margin: 2px 21px ;
+    margin: 2px 24px ;
 }
